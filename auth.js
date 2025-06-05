@@ -1,0 +1,1 @@
+function originalLogin() { return 'original'; }
